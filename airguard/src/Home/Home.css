@@ -1,0 +1,8 @@
+.container{
+    height: 50vh;
+    background-color: brown;
+    max-width: 100%;
+    font-size: 50px;
+    font-style: italic;
+    text-align: center;
+}
